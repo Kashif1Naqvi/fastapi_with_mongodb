@@ -1,0 +1,46 @@
+.section .table-responsive table tbody tr > td{
+    LINE-HEIGHT: 50px;
+}
+
+
+.section {
+    background-color: #f9fafc;
+}
+
+.section table {
+    font-size: 12px;
+    color: #463333;
+}
+
+
+.section table > tbody {
+    border-color: aliceblue;
+}
+
+.section th span {
+    margin-left: 5px;
+    color: #999;
+    font-size: 13px;
+}
+
+
+
+.section.mt-4 .table-responsive  table.table thead{
+    border-top-style: solid;
+    border-top-color: #dee2e6;
+    border-top-width: 1px;
+}
+
+
+.modal-fullscreen.modal-fullscreen {
+    width: 80vw;
+    max-width: none;
+    height: 100%;
+    margin-left: 13%;
+}
+
+
+
+.blog-content-section ul.pagination {
+    float: right;
+}
